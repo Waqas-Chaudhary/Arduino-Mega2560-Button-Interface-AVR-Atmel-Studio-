@@ -1,0 +1,1 @@
+Turn LEDs in a sequence using a push button (PORT of your choice and minimum 3 LEDS should be used) when reaching the last LED again the first LED should glow when button is pressed and the sequence should repeat in a constant loop.
